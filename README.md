@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+### Create .env file
+
+```env
+REACT_APP_NODE_ENV=development # | production
+REACT_APP_LOCAL_BASE_URL=http://localhost:4000
+REACT_APP_SERVER_BASE_URL=http://localhost:4000 # | baseURL-API
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
